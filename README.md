@@ -1,4 +1,4 @@
-College Lab Assignment Automation Script
+# College Lab Assignment Automation Script
 This repository contains a Python script that automates the process of preparing and sending lab assignments to the anti-plagiarism system at my college
 
 THE SCRIPT
@@ -27,4 +27,5 @@ REQUIREMENTS
 - Python 3.x 
 - Outlook installed and configured
 - `pywin32` package:
-  bash: `pip install pywin32`
+  ```bash
+  pip install pywin32
