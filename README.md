@@ -1,3 +1,4 @@
+College Lab Assignment Automation Script
 This repository contains a Python script that automates the process of preparing and sending lab assignments to the anti-plagiarism system at my college
 
 THE SCRIPT
@@ -10,7 +11,7 @@ THE SCRIPT
 
 FEATURES
 - Searches recursively for your `.c` or `.cpp` source file
-- Applies the required pattern: `identityNumer.subjectName.groupName.main.c`.
+- Applies the required pattern: `identityNumber.subjectName.groupName.main.c`.
 - Adds the first three required comment lines:
   1. Mail subject  
   2. Author name  
@@ -26,4 +27,4 @@ REQUIREMENTS
 - Python 3.x 
 - Outlook installed and configured
 - `pywin32` package:
-  bash: 'pip install pywin32'
+  bash: `pip install pywin32`
